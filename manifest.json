@@ -1,0 +1,18 @@
+{
+  "version": 5,
+  "original_sha256": "e559d9c867d7ad2c92007aa72c695ee1659ccabaefc06465cc76d8baa82fa61d",
+  "patched_sha256": "b3cf6ec0a8b0a1ebbf4b2fe8c21030b06428b1218d475e07d209b3d56e694174",
+  "resource": 593443304,
+  "packed_size": 52459,
+  "aot_lookup": 607644576,
+  "restored_captions": 85,
+  "note": "Only the root QML is rebuilt; child components retain their original localized compiled units.",
+  "files": {
+    "App/Topaz Photo.exe": "b3cf6ec0a8b0a1ebbf4b2fe8c21030b06428b1218d475e07d209b3d56e694174",
+    "App/TopazPhotoMicaHost.exe": "383d5e46c5cf305492c0577d085355ea25c0e3ce8a7c3ec565ad1245c1ee354f",
+    "App/MicaHost.cs": "b363f9a638e450aa28421cc7b9b0fc012e4815b745711ee2c024dd58ddcb7c40",
+    "App/MicaTheme.qml": "5550e5ed842f1e9709b9262eb30c0413413ac4287efbce903d9a0cb96c639cff",
+    "TopazPhotoPortable.ini": "28b09656a79d878b6e87ee52091b4e5834ab4b9cce9e28720e6d19d4f89e1b79"
+  },
+  "verified": "Native DWM: Backdrop=2, Corners=2, Dark=0. User confirmed normal Chinese UI. Live dark-to-light OS switching was not exercised."
+}
